@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\vs project\练习题\错题--day16\main.cpp(62): warning C4930: “test5::Test b(void)”: 未调用原型函数(是否是有意用变量定义的?)
+c:\vs project\练习题\错题--day16\main.cpp(62): warning C4101: “b”: 未引用的局部变量
+  错题--day16.vcxproj -> C:\VS PROJECT\练习题\错题--day16\Debug\错题--day16.exe
