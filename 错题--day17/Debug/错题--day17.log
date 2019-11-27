@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\vs project\练习题\错题--day17\main.cpp(6): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  c:\vs project\练习题\错题--day17\main.cpp(6): note: 请考虑在格式字符串中使用“%lld”
+  c:\vs project\练习题\错题--day17\main.cpp(6): note: 请考虑在格式字符串中使用“%I64d”
+c:\vs project\练习题\错题--day17\main.cpp(6): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
+  c:\vs project\练习题\错题--day17\main.cpp(6): note: 请考虑在格式字符串中使用“%lld”
+  c:\vs project\练习题\错题--day17\main.cpp(6): note: 请考虑在格式字符串中使用“%I64d”
+c:\vs project\练习题\错题--day17\main.cpp(6): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“__int64”
+  c:\vs project\练习题\错题--day17\main.cpp(6): note: 请考虑在格式字符串中使用“%lld”
+  c:\vs project\练习题\错题--day17\main.cpp(6): note: 请考虑在格式字符串中使用“%I64d”
+c:\vs project\练习题\错题--day17\main.cpp(6): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\vs project\练习题\错题--day17\main.cpp(6): note: 占位符和其参数预计 6 可变参数，但提供的却是 3 参数
+  c:\vs project\练习题\错题--day17\main.cpp(6): note: 缺失的可变参数 4 为格式字符串“%d”所需
+  错题--day17.vcxproj -> C:\VS PROJECT\练习题\错题--day17\Debug\错题--day17.exe
